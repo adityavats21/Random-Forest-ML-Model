@@ -2,7 +2,7 @@ Random Forest Classification
 
 This repository contains a Random Forest Classifier implementation in Python using Jupyter Notebook. The project demonstrates the complete workflow of building, training, and evaluating a machine learning model with Random Forest.
 
-📌 Project Overview
+Project Overview
 
 Import and explore dataset
 
@@ -18,7 +18,7 @@ Evaluate performance using accuracy, confusion matrix, and classification report
 
 Summarize results and conclusion
 
-🚀 Technologies Used
+Technologies Used
 
 Python
 
@@ -28,7 +28,7 @@ Matplotlib & Seaborn (visualization)
 
 Scikit-learn (model building and evaluation)
 
-📊 Results
+ Results
 
 Random Forest provided robust classification with good accuracy.
 
